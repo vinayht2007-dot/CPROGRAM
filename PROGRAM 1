@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(){
+    int a=10;  //integer
+    float b=3.14;  //float
+    double c=12.3456789;  //double(more precision)
+    char d='X';  //character
+    printf("integer value:%d\n",a);
+    printf("Float value:%.2f\n",b);
+    printf("Double value:%9f\n",c);
+    printf("character value:%c\n",d);
+    return 0;
+}
