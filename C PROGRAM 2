@@ -13,4 +13,5 @@ int main()
     printf("\nstudent Details:\n");
     printf("name:%s\nAge:%d\nMarks:%.2f\n",name,age,marks);
     return 0;
+
 }
